@@ -9,3 +9,5 @@ I implemented:
 - Infinite scrolling on the game's home screen
 - Different types of logic for each enemy
 - The UI
+- SOLID and MVC patterns
+
